@@ -1,0 +1,945 @@
+fileFormatVersion: 2
+guid: bdeefb5bddde90748a81abec085b97b6
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: $AMBIENT$
+  - first:
+      1: 100002
+    second: Armature
+  - first:
+      1: 100004
+    second: glowa
+  - first:
+      1: 100006
+    second: Lamp
+  - first:
+      1: 100008
+    second: Lamp.001
+  - first:
+      1: 100010
+    second: Light
+  - first:
+      1: 100012
+    second: Light #2
+  - first:
+      1: 100014
+    second: lopatkaL
+  - first:
+      1: 100016
+    second: lopatkaP
+  - first:
+      1: 100018
+    second: lydkaL
+  - first:
+      1: 100020
+    second: lydkaL_end
+  - first:
+      1: 100022
+    second: lydkaP
+  - first:
+      1: 100024
+    second: lydkaP_end
+  - first:
+      1: 100026
+    second: //RootNode
+  - first:
+      1: 100028
+    second: ogon
+  - first:
+      1: 100030
+    second: ogon_end
+  - first:
+      1: 100032
+    second: plecy
+  - first:
+      1: 100034
+    second: przedramieL
+  - first:
+      1: 100036
+    second: przedramieL_end
+  - first:
+      1: 100038
+    second: przedramieLsrodek
+  - first:
+      1: 100040
+    second: przedramieLsrodek_end
+  - first:
+      1: 100042
+    second: przedramieP
+  - first:
+      1: 100044
+    second: przedramieP_end
+  - first:
+      1: 100046
+    second: przedramiePsrodek
+  - first:
+      1: 100048
+    second: przedramiePsrodek_end
+  - first:
+      1: 100050
+    second: ramieL
+  - first:
+      1: 100052
+    second: ramieP
+  - first:
+      1: 100054
+    second: uchoL
+  - first:
+      1: 100056
+    second: uchoL_end
+  - first:
+      1: 100058
+    second: uchoP
+  - first:
+      1: 100060
+    second: uchoP_end
+  - first:
+      1: 100062
+    second: udoL
+  - first:
+      1: 100064
+    second: udoP
+  - first:
+      1: 100066
+    second: vamp_bat
+  - first:
+      4: 400000
+    second: $AMBIENT$
+  - first:
+      4: 400002
+    second: Armature
+  - first:
+      4: 400004
+    second: glowa
+  - first:
+      4: 400006
+    second: Lamp
+  - first:
+      4: 400008
+    second: Lamp.001
+  - first:
+      4: 400010
+    second: Light
+  - first:
+      4: 400012
+    second: Light #2
+  - first:
+      4: 400014
+    second: lopatkaL
+  - first:
+      4: 400016
+    second: lopatkaP
+  - first:
+      4: 400018
+    second: lydkaL
+  - first:
+      4: 400020
+    second: lydkaL_end
+  - first:
+      4: 400022
+    second: lydkaP
+  - first:
+      4: 400024
+    second: lydkaP_end
+  - first:
+      4: 400026
+    second: //RootNode
+  - first:
+      4: 400028
+    second: ogon
+  - first:
+      4: 400030
+    second: ogon_end
+  - first:
+      4: 400032
+    second: plecy
+  - first:
+      4: 400034
+    second: przedramieL
+  - first:
+      4: 400036
+    second: przedramieL_end
+  - first:
+      4: 400038
+    second: przedramieLsrodek
+  - first:
+      4: 400040
+    second: przedramieLsrodek_end
+  - first:
+      4: 400042
+    second: przedramieP
+  - first:
+      4: 400044
+    second: przedramieP_end
+  - first:
+      4: 400046
+    second: przedramiePsrodek
+  - first:
+      4: 400048
+    second: przedramiePsrodek_end
+  - first:
+      4: 400050
+    second: ramieL
+  - first:
+      4: 400052
+    second: ramieP
+  - first:
+      4: 400054
+    second: uchoL
+  - first:
+      4: 400056
+    second: uchoL_end
+  - first:
+      4: 400058
+    second: uchoP
+  - first:
+      4: 400060
+    second: uchoP_end
+  - first:
+      4: 400062
+    second: udoL
+  - first:
+      4: 400064
+    second: udoP
+  - first:
+      4: 400066
+    second: vamp_bat
+  - first:
+      23: 2300000
+    second: Light
+  - first:
+      23: 2300002
+    second: Light #2
+  - first:
+      33: 3300000
+    second: Light
+  - first:
+      33: 3300002
+    second: Light #2
+  - first:
+      43: 4300000
+    second: vamp_bat
+  - first:
+      43: 4300002
+    second: Light #2
+  - first:
+      43: 4300004
+    second: Light
+  - first:
+      74: 7400000
+    second: Wzlot
+  - first:
+      74: 7400002
+    second: Zlot
+  - first:
+      74: 7400004
+    second: Idz
+  - first:
+      74: 7400006
+    second: stoi
+  - first:
+      74: 7400008
+    second: zwin
+  - first:
+      74: 7400010
+    second: rozwin
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: vamp_bat
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bat_body
+    second: {fileID: 2100000, guid: 28716133d2013cd4f856135bebb4e632, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Wzlot
+      takeName: Armature|ArmatureAction
+      internalID: 0
+      firstFrame: 79
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: $AMBIENT$
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/plecy
+        weight: 1
+      - path: Armature/plecy/glowa
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL/uchoL_end
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP/uchoP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL/przedramieL_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek/przedramieLsrodek_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP/przedramieP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek/przedramiePsrodek_end
+        weight: 1
+      - path: Armature/plecy/ogon
+        weight: 1
+      - path: Armature/plecy/ogon/ogon_end
+        weight: 1
+      - path: Armature/plecy/udoL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL/lydkaL_end
+        weight: 1
+      - path: Armature/plecy/udoP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP/lydkaP_end
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Light #2
+        weight: 1
+      - path: vamp_bat
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zlot
+      takeName: Armature|ArmatureAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: $AMBIENT$
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/plecy
+        weight: 1
+      - path: Armature/plecy/glowa
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL/uchoL_end
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP/uchoP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL/przedramieL_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek/przedramieLsrodek_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP/przedramieP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek/przedramiePsrodek_end
+        weight: 1
+      - path: Armature/plecy/ogon
+        weight: 1
+      - path: Armature/plecy/ogon/ogon_end
+        weight: 1
+      - path: Armature/plecy/udoL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL/lydkaL_end
+        weight: 1
+      - path: Armature/plecy/udoP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP/lydkaP_end
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Light #2
+        weight: 1
+      - path: vamp_bat
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idz
+      takeName: Armature|ArmatureAction
+      internalID: 0
+      firstFrame: 174
+      lastFrame: 214
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: $AMBIENT$
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/plecy
+        weight: 1
+      - path: Armature/plecy/glowa
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL/uchoL_end
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP/uchoP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL/przedramieL_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek/przedramieLsrodek_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP/przedramieP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek/przedramiePsrodek_end
+        weight: 1
+      - path: Armature/plecy/ogon
+        weight: 1
+      - path: Armature/plecy/ogon/ogon_end
+        weight: 1
+      - path: Armature/plecy/udoL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL/lydkaL_end
+        weight: 1
+      - path: Armature/plecy/udoP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP/lydkaP_end
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Light #2
+        weight: 1
+      - path: vamp_bat
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: stoi
+      takeName: Armature|ArmatureAction
+      internalID: 0
+      firstFrame: 194
+      lastFrame: 197
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: $AMBIENT$
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/plecy
+        weight: 1
+      - path: Armature/plecy/glowa
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL/uchoL_end
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP/uchoP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL/przedramieL_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek/przedramieLsrodek_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP/przedramieP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek/przedramiePsrodek_end
+        weight: 1
+      - path: Armature/plecy/ogon
+        weight: 1
+      - path: Armature/plecy/ogon/ogon_end
+        weight: 1
+      - path: Armature/plecy/udoL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL/lydkaL_end
+        weight: 1
+      - path: Armature/plecy/udoP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP/lydkaP_end
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Light #2
+        weight: 1
+      - path: vamp_bat
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zwin
+      takeName: Armature|ArmatureAction
+      internalID: 0
+      firstFrame: 114
+      lastFrame: 144
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: $AMBIENT$
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/plecy
+        weight: 1
+      - path: Armature/plecy/glowa
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL/uchoL_end
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP/uchoP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL/przedramieL_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek/przedramieLsrodek_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP/przedramieP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek/przedramiePsrodek_end
+        weight: 1
+      - path: Armature/plecy/ogon
+        weight: 1
+      - path: Armature/plecy/ogon/ogon_end
+        weight: 1
+      - path: Armature/plecy/udoL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL/lydkaL_end
+        weight: 1
+      - path: Armature/plecy/udoP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP/lydkaP_end
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Light #2
+        weight: 1
+      - path: vamp_bat
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rozwin
+      takeName: Armature|ArmatureAction
+      internalID: 0
+      firstFrame: 144
+      lastFrame: 169
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: $AMBIENT$
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/plecy
+        weight: 1
+      - path: Armature/plecy/glowa
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL
+        weight: 1
+      - path: Armature/plecy/glowa/uchoL/uchoL_end
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP
+        weight: 1
+      - path: Armature/plecy/glowa/uchoP/uchoP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieL/przedramieL_end
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaL/ramieL/przedramieLsrodek/przedramieLsrodek_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramieP/przedramieP_end
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek
+        weight: 1
+      - path: Armature/plecy/lopatkaP/ramieP/przedramiePsrodek/przedramiePsrodek_end
+        weight: 1
+      - path: Armature/plecy/ogon
+        weight: 1
+      - path: Armature/plecy/ogon/ogon_end
+        weight: 1
+      - path: Armature/plecy/udoL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL
+        weight: 1
+      - path: Armature/plecy/udoL/lydkaL/lydkaL_end
+        weight: 1
+      - path: Armature/plecy/udoP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP
+        weight: 1
+      - path: Armature/plecy/udoP/lydkaP/lydkaP_end
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Light #2
+        weight: 1
+      - path: vamp_bat
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

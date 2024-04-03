@@ -1,0 +1,153 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.cavebat3"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="33" />
+10-->C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-54
+19-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-51
+20    <uses-feature
+20-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-55
+22        android:required="false" />
+22-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-33
+23
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-67
+24-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-64
+25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+25-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-79
+25-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-76
+26
+27    <uses-feature
+27-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:36
+28        android:name="android.hardware.sensor.accelerometer"
+28-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-61
+29        android:required="false" />
+29-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-33
+30    <uses-feature
+30-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:36
+31        android:name="android.hardware.touchscreen"
+31-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-52
+32        android:required="false" />
+32-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-33
+33    <uses-feature
+33-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-28:36
+34        android:name="android.hardware.touchscreen.multitouch"
+34-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-63
+35        android:required="false" />
+35-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-33
+36    <uses-feature
+36-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:5-31:36
+37        android:name="android.hardware.touchscreen.multitouch.distinct"
+37-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-72
+38        android:required="false" />
+38-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-33
+39
+40    <application
+40-->C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+41        android:debuggable="true"
+42        android:extractNativeLibs="true"
+42-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:18-50
+43        android:icon="@mipmap/app_icon"
+43-->C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+44        android:label="@string/app_name" >
+44-->C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+45        <activity
+45-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-55:20
+46            android:name="com.unity3d.player.UnityPlayerActivity"
+46-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-66
+47            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+47-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-194
+48            android:exported="true"
+48-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-36
+49            android:hardwareAccelerated="false"
+49-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-48
+50            android:launchMode="singleTask"
+50-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-44
+51            android:resizeableActivity="false"
+51-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-47
+52            android:screenOrientation="landscape"
+52-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-50
+53            android:theme="@style/UnityThemeSelector" >
+53-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-54
+54            <intent-filter>
+54-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-47:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:17-69
+55-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-77
+57-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:27-74
+58            </intent-filter>
+59
+60            <meta-data
+60-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:13-51:40
+61                android:name="unityplayer.UnityActivity"
+61-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:17-57
+62                android:value="true" />
+62-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-37
+63            <meta-data
+63-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:13-54:40
+64                android:name="android.notch_support"
+64-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:17-53
+65                android:value="true" />
+65-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:17-37
+66        </activity>
+67
+68        <meta-data
+68-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:9-59:33
+69            android:name="unity.splash-mode"
+69-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-45
+70            android:value="0" />
+70-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-30
+71        <meta-data
+71-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:9-62:36
+72            android:name="unity.splash-enable"
+72-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-47
+73            android:value="True" />
+73-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-33
+74        <meta-data
+74-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:9-65:36
+75            android:name="unity.launch-fullscreen"
+75-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:13-51
+76            android:value="True" />
+76-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-33
+77        <meta-data
+77-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:9-68:37
+78            android:name="unity.allow-resizable-window"
+78-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-56
+79            android:value="False" />
+79-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-34
+80        <meta-data
+80-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:9-71:50
+81            android:name="notch.config"
+81-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:13-40
+82            android:value="portrait|landscape" />
+82-->[:unityLibrary] C:\Users\xaven\Documents\cave bat 3\cave bat 3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-47
+83    </application>
+84
+85</manifest>
